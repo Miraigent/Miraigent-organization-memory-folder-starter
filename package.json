@@ -1,12 +1,13 @@
 {
   "name": "miraigent-organization-memory-starter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create a safe starter folder structure for organization-owned AI agent memory.",
   "homepage": "https://miraigent.com/resources.html",
   "type": "module",
   "private": false,
   "license": "MIT",
   "bin": {
+    "miraigent-organization-memory-starter": "bin/organization-memory-starter.mjs",
     "organization-memory-starter": "bin/organization-memory-starter.mjs"
   },
   "files": [

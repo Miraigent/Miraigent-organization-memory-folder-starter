@@ -5,7 +5,7 @@ Status: local package prepared, checked, and committed.
 ## Package
 
 - npm package: `miraigent-organization-memory-starter`
-- version: `0.1.0`
+- version: `0.1.1`
 - command after publish:
 
 ```bash
