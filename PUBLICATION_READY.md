@@ -4,12 +4,12 @@ Status: local package prepared, checked, and committed.
 
 ## Package
 
-- npm package: `@miraigent/organization-memory-starter`
+- npm package: `miraigent-organization-memory-starter`
 - version: `0.1.0`
 - command after publish:
 
 ```bash
-npx -y @miraigent/organization-memory-starter init my-ai-team-memory
+npx -y miraigent-organization-memory-starter init my-ai-team-memory
 ```
 
 ## Checks Passed

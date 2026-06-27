@@ -13,7 +13,7 @@ const requiredText = [
   ["README.md", "Agent Memories"],
   ["README.md", "MIRAI Memory is the private memory concept"],
   ["README.md", "This package is a starter kit for folder structure"],
-  ["package.json", "\"name\": \"@miraigent/organization-memory-starter\""],
+  ["package.json", "\"name\": \"miraigent-organization-memory-starter\""],
   ["bin/organization-memory-starter.mjs", "workspace-shared/MANIFEST.md"],
   ["bin/organization-memory-starter.mjs", "Do not store secrets"]
 ];

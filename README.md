@@ -20,7 +20,7 @@ The answer is not "save everything." A useful AI memory folder separates shared 
 ## Quick Start
 
 ```bash
-npx -y @miraigent/organization-memory-starter init my-ai-team-memory
+npx -y miraigent-organization-memory-starter init my-ai-team-memory
 cd my-ai-team-memory
 find . -maxdepth 3 -type f | sort
 ```
@@ -153,9 +153,9 @@ Learn more:
 ## Commands
 
 ```bash
-npx -y @miraigent/organization-memory-starter --help
-npx -y @miraigent/organization-memory-starter init my-ai-team-memory
-npx -y @miraigent/organization-memory-starter init . --force
+npx -y miraigent-organization-memory-starter --help
+npx -y miraigent-organization-memory-starter init my-ai-team-memory
+npx -y miraigent-organization-memory-starter init . --force
 ```
 
 ## Local Development
