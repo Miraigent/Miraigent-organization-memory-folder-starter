@@ -26,7 +26,7 @@ npm publish --dry-run --access public
 Intended repository:
 
 ```text
-https://github.com/Miraigent/organization-memory-folder-starter
+https://github.com/Miraigent/Miraigent-organization-memory-folder-starter
 ```
 
 Current blocker: the GitHub repository does not exist yet, or the deploy key is not registered.
@@ -34,7 +34,7 @@ Current blocker: the GitHub repository does not exist yet, or the deploy key is 
 Local remote is already set to:
 
 ```text
-git@github.com-miraigent-organization-memory-starter:Miraigent/organization-memory-folder-starter.git
+git@github.com-miraigent-organization-memory-starter:Miraigent/Miraigent-organization-memory-folder-starter.git
 ```
 
 Deploy key fingerprint:
