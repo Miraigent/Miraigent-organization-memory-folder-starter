@@ -20,6 +20,7 @@ const requiredText = [
 ];
 
 const forbiddenText = [
+  "@miraigent/organization-memory-starter",
   "api_key=",
   "password=",
   "secret_access_key",

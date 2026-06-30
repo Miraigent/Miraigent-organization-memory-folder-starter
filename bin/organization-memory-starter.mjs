@@ -84,8 +84,8 @@ Usage:
   organization-memory-starter init <target-dir> [--force]
 
 Examples:
-  npx -y @miraigent/organization-memory-starter init my-ai-team-memory
-  npx -y @miraigent/organization-memory-starter init . --force
+  npx -y miraigent-organization-memory-starter init my-ai-team-memory
+  npx -y miraigent-organization-memory-starter init . --force
 
 This creates a public-safe folder structure for shared and agent-specific AI memory.
 `);
